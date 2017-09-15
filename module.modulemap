@@ -1,4 +1,5 @@
 module libxml [system] {
+    header "config.h"
     header "libxml.h"
     link "xml2"
 }
