@@ -1,4 +1,4 @@
-module libxml [system] {
+module libxml2 [system] {
     header "config.h"
     header "libxml.h"
     link "xml2"
